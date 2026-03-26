@@ -14,14 +14,12 @@ This project is a Password Strength Analyzer that helps users evaluate the stren
   - Special characters
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript / C / Python (edit based on your project)
+- CLI Based
 
 ## 🚀 How to Run
 1. Clone the repository
 2. Open the project
-3. Run the main file / open index.html
+3. Run the main file.
 
 ## 🎯 Purpose
 To promote better password security practices and help users create strong passwords.

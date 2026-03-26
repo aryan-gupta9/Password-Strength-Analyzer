@@ -14,6 +14,7 @@ This project is a Password Strength Analyzer that helps users evaluate the stren
   - Special characters
 
 ## 🛠️ Technologies Used
+- Python
 - CLI Based
 
 ## 🚀 How to Run
